@@ -6,6 +6,11 @@
 - I'm interested in Books and Programming
 - I write mostly about Python, Emacs and editors
 
+#### My Latest Blog Posts
+- [Creating our own color theme in vscode](https://dev.to/vinaybommana7/creating-our-own-color-theme-in-vscode-2b9m)
+- [How i store screenshot data in my linux work environment](https://dev.to/vinaybommana7/how-i-store-screenshot-data-in-my-linux-work-environment-3epd)
+- [django+sql how to port your web app from sqlite to mysql](https://dev.to/vinaybommana7/django-mysql-how-to-port-your-web-application-from-sqlite-to-mysql-3jnl)
+
 <!--
 **vinaybommana/vinaybommana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
