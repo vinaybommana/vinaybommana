@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I'm Vinay, currently working as Site Reliability Engineer - II at OpsRamp, Inc
+
+
 - I'm interested in Books and Programming
 - I write mostly about Python, Emacs and editors
 
