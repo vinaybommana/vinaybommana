@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm interested in Books and Programming
+- I write mostly about Python, Emacs and editors
+
 <!--
 **vinaybommana/vinaybommana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
