@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Vinay, currently working as Site Reliability Engineer - II at OpsRamp, Inc
+#### I'm Vinay, currently working as Site Reliability Engineer at redhat
 
 
 - I'm interested in Books and Programming
